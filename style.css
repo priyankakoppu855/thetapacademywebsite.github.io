@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+*{
+    font-family: sans-serif;
+}
+.top-header{
+    background-color: rgb(252, 252, 252);
+    padding: 7px 5px ;
+}
+
+.call{
+    margin-left: 10%;
+    text-decoration: none;
+}
+
+.mail{
+    margin-left: 50%;
+}
+
+.text{
+    margin-bottom: 10px;
+}
+.youtube{
+    margin-left: 1%;
+}
+
+.insta{
+    margin-left: 1%;
+}
+
+.header{
+    margin-top: 2%;
+    
+
+}
+.logo{
+    margin-left: 10%;
+}
+
+.tabs{
+    margin-left: 4%;
+}
+
+.header{
+    margin-top: 2%;
+    
+
+}
+.logo{
+    margin-left: 10%;
+}
+
+.tabs{
+    margin-left: 4%;
+}
+
+.intro{
+    margin-top: 3%;
+    background-color: rgb(5, 60, 71);
+    color: white;
+    padding: 5% 20px 10% 20px;
+}
+
+.intro h3,h1,a{
+    text-align: left;
+    margin-left: 10%;
+}
+.intro p{
+    margin-left: 10%;
+    text-align: left;
+}
+.intro h1{
+    font-size: 45px;
+    font-weight: bolder;
+    
+}
+
+.training{
+    font-size: large;
+    color: rgb(44, 218, 31);
+}
+
+
+
+
+.box1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    padding: 5px 6px 5px 5px;
+    text-align: center;
+    background-color: white;
+    border-radius: 6px;
+    margin-top: -40px;
+    margin-left: 17%;
+
+}
+
+.box h2,p{
+    text-align: center;
+    text-decoration: none;
+}
+.box h2{
+    color:#053E56;
+
+}
+.box p{
+    color: rgb(84, 80, 80);
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    padding: 5px 6px 5px 5px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: -313px;
+    background-color: white;
+    border-radius: 6px;
+
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    padding: 5px 6px 5px 5px;
+    text-align: center;
+    margin-left: 63%;
+    margin-top: -313px;
+    background-color: white;
+    border-radius: 6px;
+}
+
+.step5 h1{
+    margin-left: 23%;
+    font-size: 36px;
+    color:#053E56;
+
+}
+
+.step5 p{
+    color: rgb(55, 49, 49);
+    margin-right: 0%;
+   
+}
+
+.step7 span{
+    color: rgb(84, 80, 80);
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.step8 h4{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin:0px 0px 0px 15%;
+    
+}
+
+.step8 h1{
+    margin:0px 0px 0px 15%;
+    font-weight: bold;
+}
+
+.step8 h3{
+    margin:0px 0px 0px 15%;
+    font-weight: lighter;
+    
+}
+
+.step8 h1,h3,h4{
+    width: 500px;
+}
+
+.step8 a{
+    margin-left: 15%;
+}
+.step8 h5{
+    border: 1px solid rgb(24, 19, 157);
+    width: 150px;
+    margin-left: 70%;
+    margin-top: -150px;
+    color: white;
+    background-color: rgb(24, 19, 157);
+    padding: 10px 20px;
+    font-size: medium;
+    text-decoration-color: rgb(24, 19, 157);
+}
+
+
+.step8 button{
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(0, 140, 255);
+}
+
+.step10 h1{
+    margin-left: 38%;
+}
+
+.step101 h1{
+    margin-left:370px;
+}
+
+.step11 h1{
+    margin-left: 45%;
+}
+
+.step12 h1{
+    margin-left: 43%;
+}
+
+.step13 h1{
+    margin-left: 45%;
+    width: 100px;
+}
+
+.location1 {
+    margin-left: 32%;
+}
+
+
+
